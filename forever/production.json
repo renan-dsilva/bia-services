@@ -1,0 +1,9 @@
+{
+    "append": true,
+    "watch": true,
+    "script": "./bin/server.js",
+    "sourceDir": "/var/bia/media/services/",
+    "logFile": "./logs/forever.log",
+    "outFile": "./logs/out.log",
+    "errFile": "./logs/err.log"
+}
