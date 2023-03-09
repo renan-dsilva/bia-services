@@ -25,7 +25,7 @@ global.AWS_BUCKET_NAME = process.env.AWS_BUCKET_NAME;
 
 
 module.exports = {
-    connectionString: 'mongodb://127.0.0.1:27017/weble_media', //.env.MONGO_CONNECT_BIA_MEDIA,
+    connectionString: 'mongodb://mongo:veMWXwqrAPIvJvIxMiNF@containers-us-west-45.railway.app:7899', //.env.MONGO_CONNECT_BIA_MEDIA,
     database: 'bia_media',
     sendgridKey: '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',
     containerConnectinoString: 'TBD'
